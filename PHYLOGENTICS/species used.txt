@@ -1,0 +1,6 @@
+hypothetical protein, partial [Gulbenkiania mobilis]
+hypothetical protein H8957_017671, partial [Semnopithecus entellus]
+putative uncharacterized protein FLJ38264 [Callithrix jacchus]
+hypothetical protein EGM_01778, partial [Macaca fascicularis]
+coiled-coil domain-containing protein 122 isoform X1 [Pongo pygmaeus]
+OK/SW-CL.41 [Homo sapiens]
