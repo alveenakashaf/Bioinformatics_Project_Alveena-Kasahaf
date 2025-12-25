@@ -1,0 +1,9 @@
+Number of amino acids: 96
+Theoretical pI: 7.05
+Molecular weight: 10461.78
+Instability index:
+The instability index (II) is computed to be 54.82
+This classifies the protein as unstable.
+
+Aliphatic index: 65.10
+Grand average of hydropathicity (GRAVY):0.031
