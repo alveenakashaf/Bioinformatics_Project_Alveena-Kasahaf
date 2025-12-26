@@ -1,2 +1,0 @@
-UTR Analysis:
-Analysis of the predicted mRNA sequence revealed that the transcript starts directly with the AUG start codon, indicating the absence of a 5′ untranslated region (UTR). Additionally, no distinct 3′ UTR or canonical polyadenylation signal (AAUAAA) was identified at the 3′ end of the sequence. This suggests that the provided sequence represents a partial coding fragment lacking full UTR regions.
